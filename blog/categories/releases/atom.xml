@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[RBS Change 4 Blog]]></title>
-  <link href="http://rbschange.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Releases | RBS Change 4 Blog]]></title>
+  <link href="http://rbschange.github.io/blog/categories/releases/atom.xml" rel="self"/>
   <link href="http://rbschange.github.io/"/>
   <updated>2013-11-28T19:57:48+01:00</updated>
   <id>http://rbschange.github.io/</id>
