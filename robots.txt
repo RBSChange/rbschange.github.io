@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://RBSChange.github.io/sitemap.xml 
+Sitemap: http://rbschange.github.io/sitemap.xml 
